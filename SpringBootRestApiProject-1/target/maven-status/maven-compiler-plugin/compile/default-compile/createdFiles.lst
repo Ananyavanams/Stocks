@@ -1,0 +1,4 @@
+com\sjprogramming\restapi\entity\stock.class
+com\sjprogramming\restapi\controller\StockControler.class
+com\sjprogramming\restapi\SpringBootRestApiProject1Application.class
+com\sjprogramming\restapi\repository\StockRepository.class
