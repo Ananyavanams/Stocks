@@ -23,7 +23,7 @@
 
 The application should now be running successfully.
 
-## FRONTEND : [
+## FRONTEND : [stock.capx]
 
 ### Steps to Set Up and Run Your React Project
 
