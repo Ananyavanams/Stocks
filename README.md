@@ -1,5 +1,5 @@
 # Stocks
-#*Running the Spring Boot Project To set up and run this project on your local machine, follow these steps:*
+**Running the Spring Boot Project To set up and run this project on your local machine, follow these steps:**
 
 
 ->Clone the Repository Use the following command in Git Bash or your preferred terminal 
